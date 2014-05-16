@@ -28,9 +28,11 @@ To build and run you need register a account test in google console with your pr
 You also need add a google account to test account in google play in testing account list.
 
 Please refer in Main Page of Google Play Service Plugin  
+
 http://github.com/playgameservices/play-games-plugin-for-unity
 
 Also Google Play Service Developer Site
+
 https://developers.google.com/games/services/android/realtimeMultiplayer
 
 
