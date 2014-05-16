@@ -1,0 +1,6 @@
+lastUpgrade=00900
+proj.AppId=920562713139
+ios.ClientId=920562713139-oour4i5ie6li1n8nkrhkuuughl8glngr.apps.googleusercontent.com
+ios.BundleId=com.kayac.realtimemultiplayerdev
+ios.SetupDone=true
+android.SetupDone=true
